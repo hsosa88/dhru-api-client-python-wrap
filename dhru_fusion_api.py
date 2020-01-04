@@ -1,7 +1,5 @@
 import requests
 from xml.etree import ElementTree as ET
-import json
-
 
 
 class ConfigurationSet():
